@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">智慧管家</string>
+    <string name="tip_phone">手机号</string>
+    <string name="tip_password">密码</string>
+    <string name="reenter_password">再次输入密码</string>
+    <string name="no_account">还没有账号，创建一个!</string>
+    <string name="has_account">已有账号，直接登录</string>
+    <string name="login">登录</string>
+    <string name="signup">注册</string>
+    <string name="forget_pass">忘记密码?</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
