@@ -10,7 +10,7 @@ import android.widget.FrameLayout;
 
 import com.flyco.tablayout.CommonTabLayout;
 import com.flyco.tablayout.listener.CustomTabEntity;
-import com.vivian.housekeeper.R;
+import com.vivian.trafficHelper.R;
 import com.vivian.trafficHelper.util.TabEntity;
 
 import java.util.ArrayList;

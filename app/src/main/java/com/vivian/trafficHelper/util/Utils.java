@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.vivian.housekeeper.R;
+import com.vivian.trafficHelper.R;
 
 import java.util.regex.Pattern;
 

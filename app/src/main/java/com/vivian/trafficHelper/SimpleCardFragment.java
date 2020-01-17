@@ -8,7 +8,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.vivian.housekeeper.R;
+import com.vivian.trafficHelper.R;
 
 public class SimpleCardFragment extends Fragment {
     private String mTitle;

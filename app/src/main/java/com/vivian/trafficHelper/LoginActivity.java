@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.vivian.housekeeper.R;
+import com.vivian.trafficHelper.R;
 import com.vivian.trafficHelper.data.UserInfo;
 import com.vivian.trafficHelper.util.LoginStatusCode;
 import com.vivian.trafficHelper.util.ServerHelper;
